@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("deepikaev")
+        print("hello")
         
         developer = NSLocalizedString("developer", tableName: "mystrings", bundle: Bundle.main, value: "", comment: "")
         
