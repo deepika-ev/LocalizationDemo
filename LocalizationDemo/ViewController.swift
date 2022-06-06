@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("deepikaev")
         
         developer = NSLocalizedString("developer", tableName: "mystrings", bundle: Bundle.main, value: "", comment: "")
         
